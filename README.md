@@ -28,4 +28,4 @@
   
 **_...y combinaciones de todos ellos._**
 
-En la siguiente galería de gráficos pueden apreciarse todos los tipos de gráficos que pueden crearse con esta librería.
+_En la siguiente galería de gráficos pueden apreciarse todos los tipos de gráficos que pueden crearse con esta librería._
