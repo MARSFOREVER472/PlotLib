@@ -24,7 +24,7 @@
   
 - **_Diagramas de contorno._**
   
-- Mapas de color.
+- _Mapas de color._
   
 ...y combinaciones de todos ellos.
 
