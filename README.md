@@ -15,7 +15,7 @@
 - Diagramas de lineas
 - Diagramas de areas
 - Diagramas de contorno
-Mapas de color
+- Mapas de color
 y combinaciones de todos ellos.
 
 En la siguiente galería de gráficos pueden apreciarse todos los tipos de gráficos que pueden crearse con esta librería.
