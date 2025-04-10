@@ -9,6 +9,7 @@
 - **_Diagramas de barras._**
   
 - Histograma.
+  
 - Diagramas de sectores
 - Diagramas de caja y bigotes
 - Diagramas de violín
