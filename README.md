@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/aa254802-679a-4d29-ae95-713dd25cb9a9)
 
-Permite crear y personalizar los tipos de gráficos más comunes, entre ellos:
+_Permite crear y personalizar los tipos de gráficos más comunes, entre ellos:_
 
 Diagramas de barras
 Histograma
