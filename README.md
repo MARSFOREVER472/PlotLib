@@ -10,7 +10,7 @@
   
 - **_Histograma._**
   
-- _Diagramas de sectores._
+- **_Diagramas de sectores._**
   
 - Diagramas de caja y bigotes
 - Diagramas de violín
