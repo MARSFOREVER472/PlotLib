@@ -26,6 +26,6 @@
   
 - Mapas de color.
   
-y combinaciones de todos ellos.
+...y combinaciones de todos ellos.
 
 En la siguiente galería de gráficos pueden apreciarse todos los tipos de gráficos que pueden crearse con esta librería.
