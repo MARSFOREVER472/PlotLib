@@ -13,7 +13,7 @@
 - Diagramas de violín
 - Diagramas de dispersión o puntos
 - Diagramas de lineas
-Diagramas de areas
+- Diagramas de areas
 Diagramas de contorno
 Mapas de color
 y combinaciones de todos ellos.
