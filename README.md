@@ -22,7 +22,7 @@
   
 - **_Diagramas de areas._**
   
-- Diagramas de contorno
+- Diagramas de contorno.
 - Mapas de color
   
 y combinaciones de todos ellos.
