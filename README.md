@@ -8,7 +8,7 @@
 
 - **_Diagramas de barras._**
   
-- Histograma.
+- _Histograma._
   
 - Diagramas de sectores
 - Diagramas de caja y bigotes
