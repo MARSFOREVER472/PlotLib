@@ -11,7 +11,7 @@
 - Diagramas de sectores
 - Diagramas de caja y bigotes
 - Diagramas de violín
-Diagramas de dispersión o puntos
+- Diagramas de dispersión o puntos
 Diagramas de lineas
 Diagramas de areas
 Diagramas de contorno
