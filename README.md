@@ -20,7 +20,7 @@
   
 - **_Diagramas de lineas._**
   
-- **_Diagramas de areas_**
+- **_Diagramas de areas._**
 - Diagramas de contorno
 - Mapas de color
   
