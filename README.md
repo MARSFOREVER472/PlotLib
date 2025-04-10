@@ -18,7 +18,7 @@
   
 - **_Diagramas de dispersión o puntos._**
   
-- **_Diagramas de lineas._**
+- **_Diagramas de líneas._**
   
 - **_Diagramas de areas._**
   
