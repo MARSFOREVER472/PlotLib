@@ -16,7 +16,7 @@
   
 - **_Diagramas de violín._**
   
-- Diagramas de dispersión o puntos
+- _Diagramas de dispersión o puntos_
 - Diagramas de lineas
 - Diagramas de areas
 - Diagramas de contorno
