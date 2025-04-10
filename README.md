@@ -11,6 +11,7 @@
 - **_Histograma._**
   
 - Diagramas de sectores.
+  
 - Diagramas de caja y bigotes
 - Diagramas de violín
 - Diagramas de dispersión o puntos
