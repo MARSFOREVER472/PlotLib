@@ -18,7 +18,7 @@
   
 - **_Diagramas de dispersión o puntos._**
   
-- Diagramas de lineas
+- _Diagramas de lineas_
 - Diagramas de areas
 - Diagramas de contorno
 - Mapas de color
