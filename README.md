@@ -8,7 +8,7 @@
 
 - Diagramas de barras
 - Histograma
-Diagramas de sectores
+- Diagramas de sectores
 Diagramas de caja y bigotes
 Diagramas de violín
 Diagramas de dispersión o puntos
