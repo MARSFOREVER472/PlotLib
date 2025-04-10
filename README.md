@@ -13,6 +13,7 @@
 - **_Diagramas de sectores._**
   
 - **_Diagramas de caja y bigotes._**
+  
 - Diagramas de violín
 - Diagramas de dispersión o puntos
 - Diagramas de lineas
