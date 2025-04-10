@@ -14,7 +14,7 @@
   
 - **_Diagramas de caja y bigotes._**
   
-- _Diagramas de violín_
+- **_Diagramas de violín_**
 - Diagramas de dispersión o puntos
 - Diagramas de lineas
 - Diagramas de areas
