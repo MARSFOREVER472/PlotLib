@@ -7,6 +7,7 @@
 **_Permite crear y personalizar los tipos de gráficos más comunes, entre ellos:_**
 
 - **_Diagramas de barras._**
+  
 - Histograma
 - Diagramas de sectores
 - Diagramas de caja y bigotes
