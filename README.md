@@ -8,7 +8,7 @@
 
 - **_Diagramas de barras._**
   
-- **_Histograma._**
+- **_Histogramas._**
   
 - **_Diagramas de sectores._**
   
