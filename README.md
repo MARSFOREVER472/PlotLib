@@ -29,6 +29,7 @@
 **_...y combinaciones de todos ellos._**
 
 **_En la siguiente galería de gráficos pueden apreciarse todos los tipos de gráficos que pueden crearse con esta librería._**
+
 Creación de gráficos con matplotlib
 Para crear un gráfico con matplotlib es habitual seguir los siguientes pasos:
 
