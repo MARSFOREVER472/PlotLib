@@ -42,6 +42,6 @@
 
 - Personalizar el gráfico. Para ello existen multitud de funciones que permiten añadir un título, una leyenda, una rejilla, cambiar colores o personalizar los ejes.
 
-Guardar el gráfico. Para ello se utiliza la función savefig().
+- Guardar el gráfico. Para ello se utiliza la función savefig().
 
 Mostrar el gráfico. Para ello se utiliza la función show().
