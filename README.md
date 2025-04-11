@@ -32,7 +32,7 @@
 
 ## **_Creación de gráficos con matplotlib_**
 
-Para crear un gráfico con matplotlib es habitual seguir los siguientes pasos:
+### Para crear un gráfico con matplotlib es habitual seguir los siguientes pasos:
 
 Importar el módulo pyplot.
 
