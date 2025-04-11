@@ -44,4 +44,4 @@
 
 - Guardar el gráfico. Para ello se utiliza la función savefig().
 
-Mostrar el gráfico. Para ello se utiliza la función show().
+- Mostrar el gráfico. Para ello se utiliza la función show().
