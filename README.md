@@ -34,7 +34,7 @@
 
 ### **_Para crear un gráfico con matplotlib es habitual seguir los siguientes pasos:_**
 
-Importar el módulo pyplot.
+- Importar el módulo pyplot.
 
 Definir la figura que contendrá el gráfico, que es la region (ventana o página) donde se dibujará y los ejes sobre los que se dibujarán los datos. Para ello se utiliza la función subplots().
 
