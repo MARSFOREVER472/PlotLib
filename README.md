@@ -1,6 +1,6 @@
-# **_La librería Matplotlib_**
+# **_La librería ```Matplotlib```_**
 
-**_Matplotlib es una librería de Python especializada en la creación de gráficos en 2 dimensiones._**
+**_```Matplotlib``` es una librería de Python especializada en la creación de gráficos en 2 dimensiones._**
 
 ![image](https://github.com/user-attachments/assets/aa254802-679a-4d29-ae95-713dd25cb9a9)
 
@@ -30,18 +30,18 @@
 
 **_En la siguiente galería de gráficos pueden apreciarse todos los tipos de gráficos que pueden crearse con esta librería._**
 
-## **_Creación de gráficos con matplotlib_**
+## **_Creación de gráficos con ```matplotlib```_**
 
-### **_Para crear un gráfico con matplotlib es habitual seguir los siguientes pasos:_**
+### **_Para crear un gráfico con ```matplotlib``` es habitual seguir los siguientes pasos:_**
 
-Importar el módulo pyplot.
+- **_Importar el módulo ```pyplot```._**
 
-Definir la figura que contendrá el gráfico, que es la region (ventana o página) donde se dibujará y los ejes sobre los que se dibujarán los datos. Para ello se utiliza la función subplots().
+- **_Definir la figura que contendrá el gráfico, que es la region (ventana o página) donde se dibujará y los ejes sobre los que se dibujarán los datos. Para ello se utiliza la función ```subplots()```._**
 
-Dibujar los datos sobre los ejes. Para ello se utilizan distintas funciones dependiendo del tipo de gráfico que se quiera.
+- **_Dibujar los datos sobre los ejes. Para ello se utilizan distintas funciones dependiendo del tipo de gráfico que se quiera._**
 
-Personalizar el gráfico. Para ello existen multitud de funciones que permiten añadir un título, una leyenda, una rejilla, cambiar colores o personalizar los ejes.
+- **_Personalizar el gráfico. Para ello existen multitud de funciones que permiten añadir un título, una leyenda, una rejilla, cambiar colores o personalizar los ejes._**
 
-Guardar el gráfico. Para ello se utiliza la función savefig().
+- **_Guardar el gráfico. Para ello se utiliza la función ```savefig()```._**
 
-Mostrar el gráfico. Para ello se utiliza la función show().
+- **_Mostrar el gráfico. Para ello se utiliza la función ```show()```._**
