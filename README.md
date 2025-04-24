@@ -1,4 +1,4 @@
-# **_La librería ```Matplotlib```_**
+# **_```Matplotlib```_**
 
 **_```Matplotlib``` es una librería de Python especializada en la creación de gráficos en 2 dimensiones._**
 
