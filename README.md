@@ -10,7 +10,7 @@
   
 - **_Histogramas._**
   
-- **_Diagramas de sectores._**
+- **_Gráfico de sectores._**
   
 - **_Diagramas de caja y bigotes._**
   
