@@ -12,7 +12,7 @@
   
 - **_Gráfico de sectores._**
   
-- **_Diagramas de caja y bigotes._**
+- **_Gráficos de caja y bigotes._**
   
 - **_Diagramas de violín._**
   
