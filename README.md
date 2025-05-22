@@ -16,7 +16,7 @@
   
 - **_Diagramas de violín._**
   
-- **_Gráfica de dispersión o de puntos._**
+- **_Gráfica de dispersión y/o de puntos._**
   
 - **_Diagramas de líneas._**
   
