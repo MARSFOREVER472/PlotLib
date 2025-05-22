@@ -1,6 +1,6 @@
 # **_```Matplotlib```_**
 
-**_```Matplotlib``` es una librería comúnmente utilizada de Python especializada en la creación de gráficos en 2 dimensiones._**
+**_```Matplotlib``` es una librería comúnmente utilizada en Python especializada en la creación de gráficos en 2 dimensiones._**
 
 ![image](https://github.com/user-attachments/assets/aa254802-679a-4d29-ae95-713dd25cb9a9)
 
